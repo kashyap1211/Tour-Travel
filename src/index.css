@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@layer base{
+    .active{
+        @apply text-blue-700;
+    }
+}
