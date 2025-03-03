@@ -1,8 +1,8 @@
 // import React from 'react'
 // import { DiResponsive } from 'react-icons/di'
-// import Img1 from "./assets/img1.jpg"
-// import Img2 from "./assets/img2.jpg"
-// import Img3 from "./assets/img3.jpg"
+// import Img1 from "../assets/img1.jpg"
+// import Img2 from "../assets/img2.jpg"
+// import Img3 from "../assets/img3.jpg"
 
 
 // const TestimonialData = [
@@ -98,9 +98,9 @@ import React from 'react';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Img1 from "./assets/img1.jpg";
-import Img2 from "./assets/img2.jpg";
-import Img3 from "./assets/img3.jpg";
+import Img1 from "../assets/img1.jpg";
+import Img2 from "../assets/img2.jpg";
+import Img3 from "../assets/img3.jpg";
 
 const TestimonialData = [
   {

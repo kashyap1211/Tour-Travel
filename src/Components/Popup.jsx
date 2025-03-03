@@ -1,6 +1,6 @@
 // import React from 'react';
 // import { IoMdCloseCircleOutline } from "react-icons/io";
-// import backgroundImg from './assets/form-background.png'
+// import backgroundImg from '../assets/form-background.png'
 // const Popup = ({orderPopup , setOrderPopup}) => {
 //   return (
 //   <>{orderPopup && <div>
@@ -33,7 +33,7 @@
 // export default Popup
 import React from 'react';
 import { IoMdCloseCircleOutline } from "react-icons/io";
-import backgroundImg from './assets/form-background.png';
+import backgroundImg from '../assets/form-background.png';
 
 const Popup = ({ orderPopup, setOrderPopup }) => {
   return (
