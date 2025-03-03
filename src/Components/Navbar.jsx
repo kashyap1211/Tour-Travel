@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import Logo from "../assets/logo.png"; 
+import Logo from "./assets/logo.png"; 
 import { FaCaretDown } from "react-icons/fa6";
 import { HiMenuAlt1, HiMenuAlt3 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsivMenu";
